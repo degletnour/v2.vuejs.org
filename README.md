@@ -101,7 +101,7 @@ Russian translation is maintained by Translation Gang.
 - [Fabián Larrañaga](https://github.com/FLarra) | [Twitter](https://twitter.com/FLarraa)
 - [Pablo Marcano](https://github.com/Pablosky12) | [Twitter](https://twitter.com/stiv_ml)
 - [Nicolás Tinte](https://github.com/Tintef) | [Twitter](https://twitter.com/NicoTinte)
-- [Diego Somethingreiro](https://github.com/faliure)
+- [Diego Barreiro](https://github.com/faliure)
 - [Matías Verdier](https://github.com/MatiasVerdier) | [Twitter](https://twitter.com/matiasvj)
 - [Pablo Kz](https://github.com/pabloKz)
 - [Leonardo Fagundez](https://github.com/lfgdzdev) | [Twitter](https://twitter.com/Lfgdz)
